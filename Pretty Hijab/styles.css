@@ -336,16 +336,16 @@
 }
 
 .solde1 {
-    background-image: url(../images/soldes/1.jpg);
+    background-image: url(images/soldes/1.jpg);
 }
 .solde2 {
-    background-image: url(../images/soldes/2.jpg);
+    background-image: url(images/soldes/2.jpg);
 }
 .solde3 {
-    background-image: url(../images/soldes/3.jpg);
+    background-image: url(images/soldes/3.jpg);
 }
 .solde4 {
-    background-image: url(../images/soldes/4.jpg);
+    background-image: url(images/soldes/4.jpg);
 }
 .solde-details {
     position: absolute;
